@@ -1,16 +1,27 @@
-## Hi there 👋
+### ¡Hola! 👋 Soy Malena Campana
 
-<!--
-**malecampana/malecampana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Developer | Visual Designer | Ciberseguridad**  
+📍 Ubicada en Barcelona  
 
-Here are some ideas to get you started:
+Apasionada por la intersección entre el diseño visual, el desarrollo web y la seguridad de la información. Me encanta construir interfaces atractivas, funcionales y accesibles, respaldadas por un código limpio y seguro.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías y Herramientas
+* **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Bootstrap
+* **Diseño y UI/UX:** Figma, Diseño Responsivo
+* **Ciberseguridad:** Análisis de eventos, monitoreo y fundamentos de seguridad
+
+---
+
+### 🚀 Proyectos Destacados
+* **Landing Pages:** Diseños modernos optimizados para conversión y adaptados a dispositivos móviles.
+* **Proyecto en React:** Aplicación interactiva desarrollada con componentes modernos.
+* **Componente Acordeón:** UI interactiva desarrollada en JavaScript/HTML/CSS para optimizar espacios y FAQ.
+* **Bootstrap Responsive:** Maquetación avanzada utilizando el sistema de grillas y componentes de Bootstrap.
+
+---
+
+### 📫 ¿Cómo contactarme?
+* GitHub: [@malecampana](https://github.com/malecampana)## Hi there 👋
+
